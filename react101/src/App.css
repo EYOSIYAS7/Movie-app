@@ -1,0 +1,48 @@
+body {
+  background: #000;
+  color: white;
+}
+img {
+  width: 200px;
+  height: 230px;
+}
+#search {
+  color: rgb(255, 0, 0);
+}
+i {
+  color: yellow;
+}
+.swiper-pagination-bullet {
+  background: #d8d8d8 !important;
+  margin-top: 5px !important;
+}
+
+.swiper-pagination-bullet-active {
+  background: rgb(253, 212, 5) !important;
+}
+.card {
+  width: 12rem;
+  background: rgb(25, 25, 25);
+}
+.App-header {
+  margin-top: 15px;
+
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.navLink :hover {
+  color: rgb(255, 0, 0);
+}
+.link {
+  color: white;
+}
